@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RobertCrupa/web_page/static/css/main.dacc5b05.css",
+    "main.js": "/RobertCrupa/web_page/static/js/main.070b948a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/RobertCrupa/web_page/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/RobertCrupa/web_page/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/RobertCrupa/web_page/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/pragueCycle.png": "/RobertCrupa/web_page/static/media/pragueCycle.f47cafb11b63f4cfbc6d.png",
+    "static/media/emotion.png": "/RobertCrupa/web_page/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/RobertCrupa/web_page/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/ros2.png": "/RobertCrupa/web_page/static/media/ros2.069e90b0289668472835.png",
+    "static/media/strato.png": "/RobertCrupa/web_page/static/media/strato.dbd92afb8d3ea1d1dfdb.png",
+    "static/media/rgc-logo.png": "/RobertCrupa/web_page/static/media/rgc-logo.2b05b3cf0a4bab0a4836.png",
+    "static/media/avatar.png": "/RobertCrupa/web_page/static/media/avatar.100c1ea6dd641dfb97a4.png",
+    "static/media/home-main.svg": "/RobertCrupa/web_page/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/RobertCrupa/web_page/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/RobertCrupa/web_page/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/home-bg.jpg": "/RobertCrupa/web_page/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/RobertCrupa/web_page/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/RobertCrupa/web_page/index.html",
+    "main.dacc5b05.css.map": "/RobertCrupa/web_page/static/css/main.dacc5b05.css.map",
+    "main.070b948a.js.map": "/RobertCrupa/web_page/static/js/main.070b948a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/RobertCrupa/web_page/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/RobertCrupa/web_page/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dacc5b05.css",
+    "static/js/main.070b948a.js"
+  ]
+}
